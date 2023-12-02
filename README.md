@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysolix&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
