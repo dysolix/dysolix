@@ -19,5 +19,4 @@
 <p align="center">
   <a href="https://discordapp.com/users/686302351719661601"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://ko-fi.com/dysolix"><img src="https://img.shields.io/badge/Ko--fi-red?style=for-the-badge&logo=kofi&logoColor=white&labelColor=red" alt="Ko-fi"></a>
-  <a href="https://buymeacoffee.com/dysolix"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"></a>
 </p>
