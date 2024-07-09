@@ -20,3 +20,11 @@
   <a href="https://discordapp.com/users/686302351719661601"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://ko-fi.com/dysolix"><img src="https://img.shields.io/badge/Ko--fi-red?style=for-the-badge&logo=kofi&logoColor=white&labelColor=red" alt="Ko-fi"></a>
 </p>
+
+<p align="center">
+  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qrc07ju972hngqlhwrg7ugvsjue3vfdfth5gmje"> <img src="https://img.shields.io/badge/bitcoin-bc1qrc07ju972hngqlhwrg7ugvsjue3vfdfth5gmje-orange?style=for-the-badge&logo=bitcoin&label=Bitcoin%20(Native%20Segwit)" alt="Bitcoin (Native Segwit): bc1qrc07ju972hngqlhwrg7ugvsjue3vfdfth5gmje"> </a> <br/>
+  <a href="https://www.blockchain.com/de/explorer/addresses/btc/bc1pp2ks28y2rg8us454es8y3emuecmfeyuyp6js0uxtpduhl3dy9jpq5ng5r4"> <img src="https://img.shields.io/badge/bitcoin-bc1pp2ks28y2rg8us454es8y3emuecmfeyuyp6js0uxtpduhl3dy9jpq5ng5r4-orange?style=for-the-badge&logo=bitcoin&label=Bitcoin%20(Taproot)" alt="Bitcoin (Taproot): bc1pp2ks28y2rg8us454es8y3emuecmfeyuyp6js0uxtpduhl3dy9jpq5ng5r4"> </a> <br/>
+  <a href="https://www.blockchain.com/explorer/addresses/eth/0x3d1eA8375F51E0D65a51298feAf7724369069960"> <img src="https://img.shields.io/badge/bitcoin-0x3d1eA8375F51E0D65a51298feAf7724369069960-orange?style=for-the-badge&logo=ethereum&label=Ethereum&color=blue" alt="Ethereum: 0x3d1eA8375F51E0D65a51298feAf7724369069960"> </a> <br/>
+  <a href="https://blockexplorer.one/litecoin/mainnet/address/ltc1qrc07ju972hngqlhwrg7ugvsjue3vfdftngjl2f"> <img src="https://img.shields.io/badge/bitcoin-ltc1qrc07ju972hngqlhwrg7ugvsjue3vfdftngjl2f-orange?style=for-the-badge&logo=litecoin&label=Litecoin&color=blue" alt="Litecoin: ltc1qrc07ju972hngqlhwrg7ugvsjue3vfdftngjl2f"> </a> <br/>
+  <a href="https://bscscan.com/address/0x3d1eA8375F51E0D65a51298feAf7724369069960"> <img src="https://img.shields.io/badge/bitcoin-0x3d1eA8375F51E0D65a51298feAf7724369069960-orange?style=for-the-badge&logo=binance&label=Binance%20Smart%20Chain&color=yellow" alt="Binance Smart Chain: 0x3d1eA8375F51E0D65a51298feAf7724369069960"> </a> 
+</p>
