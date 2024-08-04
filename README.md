@@ -20,3 +20,7 @@
   <a href="https://discordapp.com/users/686302351719661601"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://ko-fi.com/dysolix"><img src="https://img.shields.io/badge/Ko--fi-red?style=for-the-badge&logo=kofi&logoColor=white&labelColor=red" alt="Ko-fi"></a><br/>
 </p>
+
+<p align="center">
+  btc: bc1pp2ks28y2rg8us454es8y3emuecmfeyuyp6js0uxtpduhl3dy9jpq5ng5r4 • eth/bsc: 0x3d1eA8375F51E0D65a51298feAf7724369069960
+</p>
